@@ -1,0 +1,99 @@
+body{
+	background-color: white;
+}
+
+.menu{
+	color: #5206069;
+	font: 14px "Open Sans",sans-serif;
+	background-color: #7a0000;
+	width: 100%;
+	height: 60px;
+	padding: 0px 7px;
+}
+.closh img{
+	background: #00000054;
+	height: 46px;
+	width: 46px;
+	border-radius: 50rem!important;
+	color: #fff;
+	float: left;
+	margin-left: 1050px;
+	margin-top: -45px;
+}
+.log img{
+	background: #00000054;	
+	width: 200px;
+	height: 59px;
+	color: #fff;
+
+}
+.options{
+	margin-left: 200px;
+	margin-top: -48px;
+}
+.options ul li {
+	display: inline;
+	
+	color: blue;
+	font: 14px "Open Sans-serif";
+	padding: 10.01px 7px;
+	margin-top: -45px;
+
+}
+.options ul li a {
+	
+	color: #ffffff!important;
+	font: 14px "Open Sans-serif";
+	padding: 10.01px 7px;
+	text-decoration: none;
+	size: 11px;
+
+
+	
+}
+
+.options ul li a :hover{
+
+	cursor
+	background: yellow;
+	color: blue;
+	}
+.dp img{
+
+
+	background: #00000054;
+	height: 150px;
+	width: 150px;
+	border-radius: 50rem!important;
+	color: #fff;
+	
+	margin-left:20px; 
+	margin-top: 30px;
+
+}
+.fil{
+	margin-top: -10px;
+}
+.fil a img{
+
+	background: #00000054;
+	height: 46px;
+	width: 46px;
+	border-radius: 50rem!important;
+	color: #fff;
+	padding: 10.01px 7px;
+	
+	margin-left:1110px; 
+	margin-top: -20px;
+}
+.closh img{
+	background: #00000054;
+	height: 50px;
+	width: 50px;
+	border-radius: 50rem!important;
+	color: #fff;
+	float: left;
+	padding: 10.01px 7px;
+	margin-left: 1050px;
+	margin-top: -40px;
+}
